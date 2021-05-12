@@ -60,5 +60,5 @@ $ python manage.py runserver
 ```sh
   python -m django --version
 ```
- - will develop this project on heroku server soon!!
+ - will deploy this project on heroku server soon!!
 - HAPPY CODING!
